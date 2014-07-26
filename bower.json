@@ -1,0 +1,10 @@
+{
+  "name": "flowplayer-flash",
+  "version": "3.2.18",
+  "homepage": "http://flash.flowplayer.org/",
+  "authors": [
+    "Flowplayer Ltd."
+  ],
+  "description": "FlowPlayer Flash",
+  "license": "GPL License v3 with ADDITIONAL TERM per GPL Section 7"
+}
