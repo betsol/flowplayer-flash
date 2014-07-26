@@ -2,6 +2,7 @@
 
 This repository used is to install [FlowPlayer Flash][fp] using [Bower][bower].
 It's just an unpack of the original ZIP.
+Versions are removed from filenames for compatibility purposes.
 
 Original files can be downloaded [here][download].
 
