@@ -1,0 +1,30 @@
+{
+  "name": "flowplayer-flash",
+  "version": "3.2.18",
+  "description": "FlowPlayer Flash",
+  "main": "flowplayer.min.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/betsol/flowplayer-flash.git"
+  },
+  "author": "Slava Fomin II <s.fomin@betsol.ru",
+  "license": "GPL License v3 with ADDITIONAL TERM per GPL Section 7",
+  "bugs": {
+    "url": "https://github.com/betsol/flowplayer-flash/issues"
+  },
+  "homepage": "https://github.com/betsol/flowplayer-flash#readme",
+  "keywords": [
+    "flowplayer",
+    "flash",
+    "player",
+    "video"
+  ],
+  "files": [
+    "flowplayer.controls.swf",
+    "flowplayer.min.js",
+    "flowplayer.swf",
+    "LICENSE.txt",
+    "README.md",
+    "README.txt"
+  ]
+}
