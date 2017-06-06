@@ -1,0 +1,28 @@
+{
+  "name": "flowplayer-flash",
+  "version": "3.2.18",
+  "description": "Used to install FlowPlayer Flash",
+  "main": "flowplayer.min.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/betsol/flowplayer-flash-bower.git"
+  },
+  "keywords": [
+    "flowplayer",
+    "flash",
+    "bower",
+    "npm"
+  ],
+  "author": "Flowplayer Ltd.",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/betsol/flowplayer-flash-bower/issues"
+  },
+  "homepage": "https://github.com/betsol/flowplayer-flash-bower#readme"
+}
